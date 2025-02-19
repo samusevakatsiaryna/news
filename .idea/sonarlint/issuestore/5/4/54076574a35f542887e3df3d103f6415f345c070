@@ -1,0 +1,18 @@
+
+¡
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(Àì¨¿ÿÿÿÿÿ8‹â°ÉÑ2J$ebcafa0b-d8a9-4684-9797-d9cd4fae8fa2
+¡
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆÊÑØúÿÿÿÿ8‹â°ÉÑ2J$3e1e0d98-4102-4d79-a081-d611ad8da56d
+Ü
+java:S6548
+"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ÖØ¿ó8â°ÉÑ2J$707f9b78-bfd7-4205-bbc2-db1d3ea358ac
+¡
+java:S2142?"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‘â°ÉÑ2J$70ecc8df-11d5-46da-98cb-bdcf5c8d6ed0
+k	java:S108M")Either remove or fill this block of code.(É®£8‘â°ÉÑ2J$3af8fc66-eccd-4254-9d93-ddf48557682a
+~	java:S899‚";Do something with the "boolean" value returned by "remove".(ÎÙõ­8“â°ÉÑ2J$aac3cc66-5c51-4cab-8982-62b9686365ec
+|	java:S899ƒ":Do something with the "boolean" value returned by "offer".(Ğº¡f8“â°ÉÑ2J$43e97584-9828-4c47-a20c-6bb5fb082ff6
+s	java:S106„"+Replace this use of System.out by a logger.(ÀÄê¡ıÿÿÿÿ8“â°ÉÑ2J$582e6472-0392-4725-bf5a-6719db79be45
+s	java:S106†"+Replace this use of System.err by a logger.(°ÂŠáúÿÿÿÿ8“â°ÉÑ2J$f4113493-2b38-4c6d-9967-0b7c83cddf51
+Ê
+java:S1186ñ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦¹êúÿÿÿÿ8“â°ÉÑ2J$b3d802ed-317d-4f17-b2bb-c8ea7f9a8ef9
+n	java:S106Ç"+Replace this use of System.out by a logger.(‰ÿÇœ8•â°ÉÑ2J$0121ee64-ac97-4111-af00-d7a6c7e9c0f6

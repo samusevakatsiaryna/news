@@ -1,0 +1,12 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(ß¾ì”øÿÿÿÿ8Ä†øÉÑ2J$d2e9f265-eb35-45ae-b5a1-5221c635556a
+m	java:S106"+Replace this use of System.out by a logger.(ì•¤ 8Ä†øÉÑ2J$a2e60713-8bbc-4c47-8a01-43185d0f1051
+r	java:S106!"+Replace this use of System.out by a logger.(„ÓÖ§ıÿÿÿÿ8Ä†øÉÑ2J$de28f276-09f2-45c3-979c-29600bfe4de8
+b
+java:S6905"Don't use the query "SELECT *".(©î©©8Ä†øÉÑ2J$46c5107f-9360-44a1-b75c-8f708477e6ab
+l	java:S106'"+Replace this use of System.out by a logger.(¿€¢D8Ä†øÉÑ2J$2c737edb-0e5c-4334-82f3-1277179bb02a
+l	java:S1060"+Replace this use of System.out by a logger.(•…‰|8Å†øÉÑ2J$27a6ca51-4ce2-48e6-96c2-77959f098790
+r	java:S1061"+Replace this use of System.out by a logger.(£ûËøÿÿÿÿ8Å†øÉÑ2J$9f83eb25-0811-45b5-89b3-3f6a98bafcff
+r	java:S1062"+Replace this use of System.out by a logger.(‘ğŞúÿÿÿÿ8Å†øÉÑ2J$f84a8dd3-3979-435e-a692-a735af448d42
+m	java:S1064"+Replace this use of System.err by a logger.(ÃÄı8Å†øÉÑ2J$3217593d-4261-48c4-9a11-cc3e4c4a5ec9
+r	java:S106@"+Replace this use of System.out by a logger.(Ñì¼»øÿÿÿÿ8Å†øÉÑ2J$9d289ac5-4531-447c-a60d-965bf7211e51

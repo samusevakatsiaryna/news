@@ -1,0 +1,9 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùëºø8û”ÅçÌ2J$87a0f753-873d-4ca0-b127-9dbfaf62bfbc
+¥
+java:S4165"bRemove this useless assignment; "user" already holds the assigned value along all execution paths.(»¶¤Ý8¥Š—®Í2J$5cce98c1-6cf1-4da1-9b45-0e806c5654f7
+n
+java:S1172"+Remove this unused method parameter "User".(ùëºø8þ”ÅçÌ2J$6d37a83e-3ae4-4efb-8b0f-b77ae7839e72
+]	java:S125"<This block of commented-out lines of code should be removed.(»ˆ¤÷ûÿÿÿÿ8‚¿—®Í2
+r
+java:S1656"/Remove or correct this useless self-assignment.(»¶¤Ý8¨Š—®Í2J$7eaeb7f9-9a1b-437f-9f6e-d50691b78fe5

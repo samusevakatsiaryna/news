@@ -1,0 +1,21 @@
+
+|
+java:S1854"9Remove this useless assignment to local variable "email".(»öÃ—8šö¬ÊÑ2J$30339220-ec2e-42d3-a921-c4cf13a66265
+„
+java:S1854"<Remove this useless assignment to local variable "username".(Ö¡Œ‰ûÿÿÿÿ8šö¬ÊÑ2J$ec75ca67-ccaf-4ed2-8a60-9570a4096dc2
+
+java:S1854"<Remove this useless assignment to local variable "password".(ÀÜÜü8šö¬ÊÑ2J$eb1df7a0-852a-4c89-9e81-31eba914416e
+†
+java:S1854"CRemove this useless assignment to local variable "confirmPassword".(øÇÎï8šö¬ÊÑ2J$03c4e611-c5ac-439f-b020-9f93f105fd68
+u
+java:S1135"2Complete the task associated to this TODO comment.(Ì•ß¶8ø—óÑ2J$0cbfe852-6733-4f3e-884b-610fb29e39ff
+m
+java:S1481"*Remove this unused "email" local variable.(»öÃ—8›ö¬ÊÑ2J$b4b4ab91-b84c-49f1-b5e2-fd409682c7e3
+u
+java:S1481"-Remove this unused "username" local variable.(Ö¡Œ‰ûÿÿÿÿ8›ö¬ÊÑ2J$3996d887-fa72-43cf-b42b-078207d256d0
+p
+java:S1481"-Remove this unused "password" local variable.(ÀÜÜü8›ö¬ÊÑ2J$93eee9c6-e9ac-4ccb-b34a-2c0aa10fbfca
+w
+java:S1481"4Remove this unused "confirmPassword" local variable.(øÇÎï8›ö¬ÊÑ2J$1d49bdb4-881a-4c92-af86-abc99657ce14
+†
+java:S1128">Remove this unused import 'jakarta.servlet.RequestDispatcher'.(•Üè•ıÿÿÿÿ8æŠ–óÑ2J$b0def234-80da-47de-8774-5bda5cb1dad8

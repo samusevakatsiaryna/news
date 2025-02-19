@@ -1,0 +1,12 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øø·±8ä‡¡óÑ2J$3e0c5d37-4dd3-441c-9b90-148f354fa635
+¢
+java:S1192;"ZDefine a constant instead of duplicating this literal "Connection Pool exception" 3 times.(Şáˆşÿÿÿÿÿ8æ‡¡óÑ2J$de8f3925-00e9-440d-8a6a-069db02a2bd8
+m	java:S1060"+Replace this use of System.err by a logger.(ÌÒÈ8é‡¡óÑ2J$c8e21f96-943f-4289-8f7e-0e2c92b17c11
+‰
+java:S1126e"AReplace this if-then-else statement by a single return statement.(ºìë²ùÿÿÿÿ8²”£óÑ2J$1e272b80-dee8-4a2c-80fd-5c2e10b31d72
+y
+java:S1481‡"0Remove this unused "rowsUpdated" local variable.(şÿúûüÿÿÿÿ8±…¤óÑ2J$20f2d17c-54d3-446f-916d-ba078537e53b
+s	java:S106•"+Replace this use of System.err by a logger.(ş¨¤›ùÿÿÿÿ8±…¤óÑ2J$5baa1e84-2fd8-4622-86de-5c336233717f
+y
+java:S1068"7Remove this unused "GET_NEWS_TYPE_QUERY" private field.(ÊÕÕ~8î‡¡óÑ2J$c27b7124-e38e-4b6c-90d8-a8a9e5cbf2bf
