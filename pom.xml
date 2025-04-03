@@ -6,7 +6,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>news</artifactId>
-    <version>1</version>
+    <version>2</version>
     <packaging>war</packaging>
 
     <properties>
@@ -85,10 +85,11 @@
                     <container>
                         <containerId>tomcat10x</containerId>
                         <type>installed</type>
+                        <home>/Users/katsiaryna/apache-tomcat-10.1.39</home>
                     </container>
                     <configuration>
-                        <home>/Users/katsiaryna@backbase.com/apache-tomcat-10.1.30/configuration</home>
-                        <type>standalone</type>
+                        <type>existing</type>
+                        <home>/Users/katsiaryna/apache-tomcat-10.1.39</home>
                         <properties>
                             <cargo.servlet.port>8080</cargo.servlet.port>
                         </properties>
